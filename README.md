@@ -10,3 +10,5 @@ Curso introductorio de uso de Phyton para Bioinformática
 - Phyton (intro)
 - Biophyton (intro)
 - 
+Algunos documentos modificacdos
+
