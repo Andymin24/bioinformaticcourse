@@ -12,3 +12,4 @@ Curso introductorio de uso de Phyton para Bioinformática
 - 
 Algunos documentos modificacdos
 
+primera actividad descargar 
