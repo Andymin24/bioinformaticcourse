@@ -1,6 +1,7 @@
 def descargar(accs)
     from Bio import Entrez 
     from Bio import SeqIO 
+    from Bio import GenBank 
 
     # Simple fasta en GenBank NCBI
     Entrez.email = "gualapuro.moises@gmail.com" 
